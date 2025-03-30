@@ -62,7 +62,7 @@ Board Game Status Management: Employees can update the availability and conditio
 
 ## Usage
 1. Login to Appsmith first
-2. Enter the app : [![][https://app.appsmith.com/app/boardgame-cafe/first-page-67c518e7352cc33eef815e46?branch=main&embed=true]
+2. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ]([https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68](https://app.appsmith.com/app/boardgame-cafe/first-page-67c518e7352cc33eef815e46?branch=main&embed=true))
 3. User Login :User Roles
 - Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
 - Administrators: Log in with admin credentials to oversee all operations and manage user requests.
