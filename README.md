@@ -27,46 +27,25 @@ Board Game Status Management: Employees can update the availability and conditio
 
 ## Folder and File Descriptions📂 
 
-## File Descriptions
+### Pages Directory
 
-- **`SampleData_MongoDB/`**: Contains sample data files for MongoDB integration.
-  - `games.json`: Sample data for game inventory.
-  - `reservations.json`: Sample data for reservation records.
-  - `customers.json`: Sample data for customer profiles.
-  - `orders.json`: Sample data for order management.
+The `pages` directory contains all the main pages and components of the application.
 
-- **`datasources/`**: Configuration files for connecting to various data sources.
-  - `mongodb_config.json`: MongoDB connection settings.
-  - `api_endpoints.json`: External API configurations.
-
-- **`jslibs/`**: Custom JavaScript libraries for extended functionalities.
-  - `utils.js`: Utility functions used across the application.
-  - `validation.js`: Functions for data validation.
-
-- **`pages/`**: Application pages with associated queries and widgets.
-  - `Home/`: Homepage of the application.
-    - `queries.json`: Data queries for the homepage.
-    - `widgets.json`: UI components for the homepage.
-  - `GameInventory/`: Page to manage game inventory.
-    - `queries.json`: Data queries for game inventory.
-    - `widgets.json`: UI components for game inventory.
-  - `Reservations/`: Page to handle reservations.
-    - `queries.json`: Data queries for reservations.
-    - `widgets.json`: UI components for reservations.
-  - `CustomerProfiles/`: Page to manage customer profiles.
-    - `queries.json`: Data queries for customer profiles.
-    - `widgets.json`: UI components for customer profiles.
-  - `Orders/`: Page to process orders.
-    - `queries.json`: Data queries for orders.
-    - `widgets.json`: UI components for orders.
-
-## Usage
-1. Login to Appsmith first
-2. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ]([https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68](https://app.appsmith.com/app/boardgame-cafe/first-page-67c518e7352cc33eef815e46?branch=main&embed=true))
-3. User Login :User Roles
-- Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
-- Administrators: Log in with admin credentials to oversee all operations and manage user requests.
-3. There are demonstration video provided on [links](#links)
+1. **BoardGames(staff)**: Contains pages related to staff-specific board game management functions.
+2. **BoardGames**: Page for viewing or managing the board game list.
+3. **First_page**: The homepage for customers or employees, likely for navigation purposes.
+4. **SignUp(member)**: Registration page for new customers to sign up.
+5. **Login**: Customer login page for authentication.
+6. **Login(staff)**: Staff login page for authentication purposes.
+7. **Table**: Page for managing or viewing table assignments for customers.
+8. **Home**: Main page for customers to navigate the application.
+9. **Home(staff)**: Main page for employees to access their staff-related functions.
+10. **FoodAndDrink**: Page for viewing or managing the food and drink menu.
+11. **FoodAndDrink(staff)**: Pages for managing food and drink orders from staff perspective.
+12. **Order(staff)**: Page for employees to manage and track customer orders.
+13. **OrderDetails**: Page for viewing or updating specific order details.
+14. **Profile**: Customer profile page to manage customer details.
+15. **Profile(staff)**: Staff profile page where employees can view or update their information.
 
 ## Credits
 This project is developed by:
