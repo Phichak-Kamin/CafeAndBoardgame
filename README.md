@@ -1,4 +1,4 @@
-## discription
+## Discription
 
 The Board Game Café App is a comprehensive solution designed to enhance the experience of both customers and employees in a board game café. Customers can seamlessly browse available board games, place food orders, and enjoy a hassle-free billing process. Meanwhile, employees can efficiently manage orders, update menu items, and track board game availability.
 
@@ -60,7 +60,7 @@ This project is developed by:
 
 3️⃣Kaimook Tanagit 6610505292
 
-## License⚠
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Tools
