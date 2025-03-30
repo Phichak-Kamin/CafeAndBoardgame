@@ -1,13 +1,34 @@
 # CafeAndBoardgame
-Project Database
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+## ภาพรวมของโปรเจกต์
 
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
+โปรเจกต์นี้เป็นแอปพลิเคชันที่พัฒนาโดยใช้ Appsmith เพื่อจัดการข้อมูลเกี่ยวกับคาเฟ่และเกมกระดาน โดยมีฟังก์ชันหลัก เช่น การเพิ่ม แก้ไข ลบ และแสดงข้อมูลคาเฟ่และเกมกระดาน รวมถึงการเชื่อมต่อกับฐานข้อมูล MongoDB เพื่อจัดเก็บข้อมูล&#8203;:contentReference[oaicite:0]{index=0}
 
-### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
+## การเข้าถึงแอปพลิเคชัน
 
-##### You can visit the application using the below link
+:contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c518e7352cc33eef815e44/pages/67c518e7352cc33eef815e46) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/67c518e7352cc33eef815e44/pages/67c518e7352cc33eef815e46/edit)
+## วิดีโอสาธิต
+
+:contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+
+[![วิดีโอสาธิต](https://raw.githubusercontent.com/Phichak-Kamin/CafeAndBoardgame/main/assets/demo_thumbnail.jpg)](https://www.youtube.com/watch?v=URL_ของ_วิดีโอ)
+
+## ซอร์สโค้ด
+
+:contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+
+## สไลด์นำเสนอ
+
+:contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+
+## เทคโนโลยีที่ใช้
+
+- :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+- :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+- :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
+
+## ใบอนุญาต
+
+:contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
