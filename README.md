@@ -25,3 +25,70 @@ Board Game Catalog: Customers can browse the available board games.
 
 Board Game Status Management: Employees can update the availability and condition of board games.
 
+## Folder and File Descriptions📂 
+
+## File Descriptions
+
+- **`SampleData_MongoDB/`**: Contains sample data files for MongoDB integration.
+  - `games.json`: Sample data for game inventory.
+  - `reservations.json`: Sample data for reservation records.
+  - `customers.json`: Sample data for customer profiles.
+  - `orders.json`: Sample data for order management.
+
+- **`datasources/`**: Configuration files for connecting to various data sources.
+  - `mongodb_config.json`: MongoDB connection settings.
+  - `api_endpoints.json`: External API configurations.
+
+- **`jslibs/`**: Custom JavaScript libraries for extended functionalities.
+  - `utils.js`: Utility functions used across the application.
+  - `validation.js`: Functions for data validation.
+
+- **`pages/`**: Application pages with associated queries and widgets.
+  - `Home/`: Homepage of the application.
+    - `queries.json`: Data queries for the homepage.
+    - `widgets.json`: UI components for the homepage.
+  - `GameInventory/`: Page to manage game inventory.
+    - `queries.json`: Data queries for game inventory.
+    - `widgets.json`: UI components for game inventory.
+  - `Reservations/`: Page to handle reservations.
+    - `queries.json`: Data queries for reservations.
+    - `widgets.json`: UI components for reservations.
+  - `CustomerProfiles/`: Page to manage customer profiles.
+    - `queries.json`: Data queries for customer profiles.
+    - `widgets.json`: UI components for customer profiles.
+  - `Orders/`: Page to process orders.
+    - `queries.json`: Data queries for orders.
+    - `widgets.json`: UI components for orders.
+
+## Usage
+1. Login to Appsmith first
+2. Enter the app : [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)
+3. User Login :User Roles
+- Residents: Log in with your resident credentials to book amenities, report issues, and manage bills.
+- Administrators: Log in with admin credentials to oversee all operations and manage user requests.
+3. There are demonstration video provided on [links](#links)
+
+## Credits
+This project is developed by:
+
+1️⃣Phichak Limlamlertkul 6610502161
+
+2️⃣Kirana Rakprakobkij 6610505284
+
+3️⃣Kaimook Tanagit 6610505292
+
+## License⚠
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Links🔗
+Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
+
+Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
+
+## Tools
+- **MongoDB Atlas**: A fully-managed cloud database service for deploying, managing, and scaling MongoDB clusters. It serves as the backend database for storing application data securely and efficiently.
+- **Appsmith**: An open-source platform for building internal tools rapidly. Appsmith is utilized to create the application's user interface, enabling easy integration with MongoDB Atlas and other data sources.
+
+##### You can visit the application using the below 
+
+###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68/edit)
