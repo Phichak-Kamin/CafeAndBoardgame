@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "6bd89c89-00ba-4415-87ef-55071877d331",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1743345191448"
+        }
+      },
+      "favorite": {
+        "name": "cafeandboardgamedb.oozki.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://cafe:boardgame@cafeandboardgamedb.oozki.mongodb.net/CafeAndBoardgameDB?retryWrites=true&w=majority&appName=CafeAndBoardgameDB",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
