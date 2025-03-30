@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##### You can visit the application using the below 
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68/edit)
+###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ][(https://app.appsmith.com/applications/67c45521e836f11c3fa21a66/pages/67c45521e836f11c3fa21a68)](https://app.appsmith.com/app/boardgame-cafe/first-page-67c518e7352cc33eef815e46?branch=main&embed=true)
