@@ -1,10 +1,3 @@
-## Introduction
-The Board Game Café App is a digital platform designed to enhance the experience of both customers and employees in a board game café. It provides a seamless way to browse board games, order food, and manage café operations efficiently. The system supports two user roles:
-
-Customers: Browse board game listings, place food orders, and settle bills conveniently.
-
-Employees: Manage orders, update menu items, track board game availability, and process customer payments.
-
 ## discription
 
 The Board Game Café App is a comprehensive solution designed to enhance the experience of both customers and employees in a board game café. Customers can seamlessly browse available board games, place food orders, and enjoy a hassle-free billing process. Meanwhile, employees can efficiently manage orders, update menu items, and track board game availability.
@@ -25,7 +18,7 @@ Board Game Catalog: Customers can browse the available board games.
 
 Board Game Status Management: Employees can update the availability and condition of board games.
 
-## Folder and File Descriptions📂 
+## Folder and File Descriptions
 
 ### Pages Directory
 
@@ -47,6 +40,17 @@ The `pages` directory contains all the main pages and components of the applicat
 14. **Profile**: Customer profile page to manage customer details.
 15. **Profile(staff)**: Staff profile page where employees can view or update their information.
 
+### SampleData_MongoDB Directory
+The `SampleData_MongoDB` directory contains sample MongoDB database data in JSON format, representing different entities in the application.
+
+1. **CafeAndBoardgameDB.BoardGames.json**: Data related to available board games in the cafe.
+2. **CafeAndBoardgameDB.CafeTables.json**: Data about tables available for customers in the cafe.
+3. **CafeAndBoardgameDB.Members.json**: Data about customer members in the system.
+4. **CafeAndBoardgameDB.Menu.json**: Data related to food and drink menu items.
+5. **CafeAndBoardgameDB.Orders.json**: Data about customer orders.
+6. **CafeAndBoardgameDB.OrdersDetails.json**: Data about specific details of orders placed.
+7. **CafeAndBoardgameDB.Staff.json**: Data related to employees/staff members.
+
 ## Credits
 This project is developed by:
 
@@ -58,11 +62,6 @@ This project is developed by:
 
 ## License⚠
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Links🔗
-Demo Clip: [Database_12_clip.mov](https://drive.google.com/file/d/1W6suv2Xci0BXEn5t-F0GbdY1VD3DBG6m/view?usp=drive_link)
-
-Slides: [slides.pdf](https://drive.google.com/file/d/15USXTsj4WWtMqhDAQ5cRG975GW2RxqDX/view?usp=drive_link)
 
 ## Tools
 - **MongoDB Atlas**: A fully-managed cloud database service for deploying, managing, and scaling MongoDB clusters. It serves as the backend database for storing application data securely and efficiently.
