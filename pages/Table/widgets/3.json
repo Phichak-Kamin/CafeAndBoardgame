@@ -1,0 +1,63 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 20,
+  "boxShadow": "none",
+  "buttonColor": "{{ getTableStatus.data.find(row => row.table_id == \"3\")?.status == \"unavailable\" ? \"red\" : \"green\" }}\n",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": "{{ getTableStatus.data.filter(row => row.table_id == \"3\")[0]?.status == \"unavailable\" }}\n",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "q2tqvmsgi4",
+  "leftColumn": 41,
+  "minWidth": 120,
+  "mobileBottomRow": 26,
+  "mobileLeftColumn": 6,
+  "mobileRightColumn": 22,
+  "mobileTopRow": 22,
+  "needsErrorInfo": false,
+  "onClick": "{{storeValue('selectedTableId', '3').then(() => {\n  showAlert(\"Selected Table ID: \" + appsmith.store.selectedTableId, 'info');\n  storeValue('table_3', '3');\n});\nhandleTableSelection.handleTableSelection();}}",
+  "originalBottomRow": 20,
+  "originalTopRow": 16,
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 57,
+  "text": "3",
+  "topRow": 16,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "mhanwbau3j",
+  "widgetName": "3"
+}

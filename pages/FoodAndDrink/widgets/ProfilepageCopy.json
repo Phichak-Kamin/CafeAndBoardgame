@@ -1,0 +1,42 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 6,
+  "boxShadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)",
+  "buttonColor": "#713f12",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "shopping-cart",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "lrmxijgd8n",
+  "leftColumn": 47,
+  "minWidth": 50,
+  "mobileBottomRow": 9,
+  "mobileLeftColumn": 24,
+  "mobileRightColumn": 28,
+  "mobileTopRow": 5,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('OrderDetails', {}, 'SAME_WINDOW').then(() => {\n  storeValue('id_order1', getLatestOrderByTable.data[0].order_id);\n});}}",
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 55,
+  "topRow": 2,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "h0n4xbac6d",
+  "widgetName": "ProfilepageCopy"
+}

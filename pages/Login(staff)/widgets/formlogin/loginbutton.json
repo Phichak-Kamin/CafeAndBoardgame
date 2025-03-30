@@ -1,0 +1,55 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 18,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": true,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "4n4g9jiihc",
+  "leftColumn": 48,
+  "minWidth": 120,
+  "mobileBottomRow": 37,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 33,
+  "needsErrorInfo": false,
+  "onClick": "{{ \n  login_staff.run((data) => {\n    if (data.length > 0) {\n      storeValue('staff', { staff_id: data[0].staff_id,name: data[0].name,surname: data[0].surname,tel: data[0].tel,age: data[0].age,salary: data[0].salary,email:data[0].email,password: data[0].password }); \n      navigateTo(\"Home(staff)\", {});\n    } else {\n      showAlert(\"อีเมลหรือรหัสผ่านไม่ถูกต้อง\", \"error\");\n    }\n  });\n}}\n",
+  "originalBottomRow": 29,
+  "originalTopRow": 25,
+  "parentId": "iju4kud4vu",
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": true,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "login",
+  "topRow": 14,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "eknxc41yar",
+  "widgetName": "loginbutton"
+}

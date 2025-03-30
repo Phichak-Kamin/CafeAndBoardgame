@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c518e7352cc33eef815e44_37f15fd5-4f7c-42bf-a7f9-e6a1873b13b7",
+  "id": "Profile_changename",
+  "unpublishedCollection": {
+    "name": "changename",
+    "pageId": "Profile",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

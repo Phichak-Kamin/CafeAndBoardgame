@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c518e7352cc33eef815e44_1e8e0898-d780-497f-979a-635756d68fc4",
+  "id": "Order(staff)_sum_price",
+  "unpublishedCollection": {
+    "name": "sum_price",
+    "pageId": "Order(staff)",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

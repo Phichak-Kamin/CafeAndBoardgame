@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "67c518e7352cc33eef815e44_add89860-ef9a-43e6-a573-6bdf57ffdb6f",
+  "id": "BoardGames(staff)_borrow_table",
+  "unpublishedCollection": {
+    "name": "borrow_table",
+    "pageId": "BoardGames(staff)",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

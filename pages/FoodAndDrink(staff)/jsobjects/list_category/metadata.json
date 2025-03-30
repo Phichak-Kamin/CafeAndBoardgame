@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c518e7352cc33eef815e44_90b2f4ac-1597-43bf-b834-241e948a1c55",
+  "id": "FoodAndDrink(staff)_list_category",
+  "unpublishedCollection": {
+    "name": "list_category",
+    "pageId": "FoodAndDrink(staff)",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

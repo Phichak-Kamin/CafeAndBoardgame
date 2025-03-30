@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c518e7352cc33eef815e44_75af8b9e-4a97-48ef-abc4-a83c0e15f61e",
+  "id": "BoardGames(staff)_check_name_update",
+  "unpublishedCollection": {
+    "name": "check_name_update",
+    "pageId": "BoardGames(staff)",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

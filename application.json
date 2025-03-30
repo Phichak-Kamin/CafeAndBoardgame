@@ -1,0 +1,114 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "MOBILE"
+  },
+  "applicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "navStyle": "stacked",
+      "orientation": "top",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#D6D1F2",
+  "embedSetting": {
+    "height": "720px",
+    "showNavigationBar": false,
+    "width": "1024px"
+  },
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "First_page",
+      "isDefault": true
+    },
+    {
+      "id": "Home",
+      "isDefault": false
+    },
+    {
+      "id": "SignUp(member)",
+      "isDefault": false
+    },
+    {
+      "id": "Login",
+      "isDefault": false
+    },
+    {
+      "id": "Table",
+      "isDefault": false
+    },
+    {
+      "id": "Home(staff)",
+      "isDefault": false
+    },
+    {
+      "id": "Profile",
+      "isDefault": false
+    },
+    {
+      "id": "Profile(staff)",
+      "isDefault": false
+    },
+    {
+      "id": "FoodAndDrink",
+      "isDefault": false
+    },
+    {
+      "id": "FoodAndDrink(staff)",
+      "isDefault": false
+    },
+    {
+      "id": "BoardGames",
+      "isDefault": false
+    },
+    {
+      "id": "BoardGames(staff)",
+      "isDefault": false
+    },
+    {
+      "id": "OrderDetails",
+      "isDefault": false
+    },
+    {
+      "id": "Order(staff)",
+      "isDefault": false
+    },
+    {
+      "id": "Login(staff)",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "navStyle": "stacked",
+      "orientation": "top",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

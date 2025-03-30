@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c518e7352cc33eef815e44_327537c0-ef95-452b-aa9b-255cf57bfd07",
+  "id": "OrderDetails_sum_all_price",
+  "unpublishedCollection": {
+    "name": "sum_all_price",
+    "pageId": "OrderDetails",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
