@@ -51,7 +51,7 @@ CafeAndBoardgame เป็นแอปพลิเคชันที่พัฒ
 ## วิธีการใช้งาน
 
 1. **การติดตั้ง**:
-   - คลิกที่ลิงก์ [CafeAndBoardgame](https://app.appsmith.com/applications/your_application_id) เพื่อเข้าถึงแอป
+   - คลิกที่ลิงก์ [CafeAndBoardgame]([https://app.appsmith.com/applications/your_application_id](https://app.appsmith.com/app/boardgame-cafe/first-page-67c518e7352cc33eef815e46?branch=main&embed=true)) เพื่อเข้าถึงแอป
    - ลงชื่อเข้าใช้ด้วยบัญชี Appsmith ของคุณ
 
 2. **การใช้งาน**:
