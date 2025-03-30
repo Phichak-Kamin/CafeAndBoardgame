@@ -5,9 +5,7 @@ Customers: Browse board game listings, place food orders, and settle bills conve
 
 Employees: Manage orders, update menu items, track board game availability, and process customer payments.
 
-## Board Game Café App
-
-discription
+## discription
 
 The Board Game Café App is a comprehensive solution designed to enhance the experience of both customers and employees in a board game café. Customers can seamlessly browse available board games, place food orders, and enjoy a hassle-free billing process. Meanwhile, employees can efficiently manage orders, update menu items, and track board game availability.
 
