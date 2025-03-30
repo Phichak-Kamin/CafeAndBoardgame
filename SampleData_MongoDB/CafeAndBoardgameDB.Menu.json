@@ -1,0 +1,460 @@
+[{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac677886b"
+  },
+  "menu_id": 3,
+  "name": "Almond Milk",
+  "price": "60",
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac677886c"
+  },
+  "menu_id": 4,
+  "name": "Strawberry Milk",
+  "price": "55",
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac677886d"
+  },
+  "menu_id": 5,
+  "name": "Matcha Milk",
+  "price": 65,
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac677886e"
+  },
+  "menu_id": 6,
+  "name": "Banana Milk",
+  "price": "60",
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac677886f"
+  },
+  "menu_id": 7,
+  "name": "Vanilla Milk",
+  "price": "50",
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac6778870"
+  },
+  "menu_id": 8,
+  "name": "Caramel Milk",
+  "price": 60,
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac6778871"
+  },
+  "menu_id": 9,
+  "name": "Hazelnut Milk",
+  "price": 65,
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5265ab4a91dcac6778872"
+  },
+  "menu_id": 10,
+  "name": "Coconut Milk",
+  "price": "55",
+  "category": "milk",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac6778875"
+  },
+  "menu_id": 13,
+  "name": "Latte",
+  "price": 60,
+  "category": "coffee",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac6778876"
+  },
+  "menu_id": 14,
+  "name": "Cappuccino",
+  "price": 60,
+  "category": "coffee",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac6778877"
+  },
+  "menu_id": 15,
+  "name": "Mocha",
+  "price": "70",
+  "category": "coffee",
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac6778878"
+  },
+  "menu_id": 16,
+  "name": "Caramel Macchiato",
+  "price": 70,
+  "category": "coffee",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac6778879"
+  },
+  "menu_id": 17,
+  "name": "Cold Brew",
+  "price": "75",
+  "category": "coffee",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac677887a"
+  },
+  "menu_id": 18,
+  "name": "Flat White",
+  "price": "60",
+  "category": "coffee",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac677887b"
+  },
+  "menu_id": 19,
+  "name": "Irish Coffee",
+  "price": "60",
+  "category": "coffee",
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "67c52687b4a91dcac677887c"
+  },
+  "menu_id": 20,
+  "name": "Affogato",
+  "price": "85",
+  "category": "coffee",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac677887d"
+  },
+  "menu_id": 21,
+  "name": "Green Tea",
+  "price": 50,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac677887e"
+  },
+  "menu_id": 22,
+  "name": "Thai Tea",
+  "price": 55,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac677887f"
+  },
+  "menu_id": 23,
+  "name": "Earl Grey Tea",
+  "price": 60,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778880"
+  },
+  "menu_id": 24,
+  "name": "Chamomile Tea",
+  "price": 60,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778881"
+  },
+  "menu_id": 25,
+  "name": "Jasmine Tea",
+  "price": 55,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778882"
+  },
+  "menu_id": 26,
+  "name": "Oolong Tea",
+  "price": 60,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778883"
+  },
+  "menu_id": 27,
+  "name": "Peppermint Tea",
+  "price": 60,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778884"
+  },
+  "menu_id": 28,
+  "name": "Lemon Tea",
+  "price": 55,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778885"
+  },
+  "menu_id": 29,
+  "name": "Matcha Latte",
+  "price": 70,
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c5269ab4a91dcac6778886"
+  },
+  "menu_id": 30,
+  "name": "Black Tea",
+  "price": "50",
+  "category": "tea",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac6778887"
+  },
+  "menu_id": 31,
+  "name": "Cola",
+  "price": 40,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac6778888"
+  },
+  "menu_id": 32,
+  "name": "Lemon Soda",
+  "price": 45,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac6778889"
+  },
+  "menu_id": 33,
+  "name": "Orange Soda",
+  "price": 50,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac677888a"
+  },
+  "menu_id": 34,
+  "name": "Grape Soda",
+  "price": 50,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac677888b"
+  },
+  "menu_id": 35,
+  "name": "Strawberry Soda",
+  "price": 50,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac677888c"
+  },
+  "menu_id": 36,
+  "name": "Blueberry Soda",
+  "price": 50,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac677888d"
+  },
+  "menu_id": 37,
+  "name": "Peach Soda",
+  "price": 55,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac677888e"
+  },
+  "menu_id": 38,
+  "name": "Watermelon Soda",
+  "price": 55,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac677888f"
+  },
+  "menu_id": 39,
+  "name": "Cherry Soda",
+  "price": "50",
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526a9b4a91dcac6778890"
+  },
+  "menu_id": 40,
+  "name": "Pineapple Soda",
+  "price": 55,
+  "category": "soda",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778892"
+  },
+  "menu_id": 42,
+  "name": "Cheesecake",
+  "price": 90,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778893"
+  },
+  "menu_id": 43,
+  "name": "Brownie",
+  "price": 85,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778894"
+  },
+  "menu_id": 44,
+  "name": "Tiramisu",
+  "price": 95,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778895"
+  },
+  "menu_id": 45,
+  "name": "Macarons",
+  "price": 100,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778896"
+  },
+  "menu_id": 46,
+  "name": "Croissant",
+  "price": 75,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778897"
+  },
+  "menu_id": 47,
+  "name": "Waffle",
+  "price": 85,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778898"
+  },
+  "menu_id": 48,
+  "name": "Ice Cream Sundae",
+  "price": 90,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac6778899"
+  },
+  "menu_id": 49,
+  "name": "Fruit Tart",
+  "price": "95",
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526bdb4a91dcac677889a"
+  },
+  "menu_id": 50,
+  "name": "Pancakes",
+  "price": 85,
+  "category": "dessert",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67e6b1f6f6e7467aa0f38b60"
+  },
+  "menu_id": null,
+  "name": "Americano",
+  "price": "55",
+  "category": "coffee",
+  "status": "unavailable"
+}]

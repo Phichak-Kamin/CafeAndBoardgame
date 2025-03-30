@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "67c52755b4a91dcac67788b9"
+  },
+  "table_id": 1,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "67c52755b4a91dcac67788ba"
+  },
+  "table_id": 2,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52755b4a91dcac67788bb"
+  },
+  "table_id": 3,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "67c52755b4a91dcac67788bc"
+  },
+  "table_id": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52755b4a91dcac67788bd"
+  },
+  "table_id": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c52755b4a91dcac67788be"
+  },
+  "table_id": 6,
+  "status": "available"
+}]

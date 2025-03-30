@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67e6400ef6e7467aa0f38b5a"
+  },
+  "details_id": null,
+  "order_id": 4,
+  "menu_id": 16,
+  "name": "Caramel Macchiato",
+  "price": 70,
+  "time": "2025-03-28 13:22:05"
+},
+{
+  "_id": {
+    "$oid": "67e64014f6e7467aa0f38b5b"
+  },
+  "details_id": 1,
+  "order_id": 4,
+  "menu_id": 21,
+  "name": "Green Tea",
+  "price": 50,
+  "time": "2025-03-28 13:22:11"
+}]

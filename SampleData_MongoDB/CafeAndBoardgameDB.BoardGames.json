@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac677889c"
+  },
+  "game_id": 2,
+  "name": "Dixit",
+  "status": "broken",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac677889d"
+  },
+  "game_id": 3,
+  "name": "Ticket to Ride",
+  "status": "unavailable",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac677889e"
+  },
+  "game_id": 4,
+  "name": "Splendor",
+  "status": "unavailable",
+  "table_id": "2"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac677889f"
+  },
+  "game_id": 5,
+  "name": "Azul",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a1"
+  },
+  "game_id": 7,
+  "name": "Codenames",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a2"
+  },
+  "game_id": 8,
+  "name": "7 Wonders",
+  "status": "unavailable",
+  "table_id": "2"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a3"
+  },
+  "game_id": 9,
+  "name": "Pandemic",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a4"
+  },
+  "game_id": 10,
+  "name": "Sushi Go!",
+  "status": "unavailable",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a5"
+  },
+  "game_id": 11,
+  "name": "King of Tokyo",
+  "status": "unavailable",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a6"
+  },
+  "game_id": 12,
+  "name": "Dominion",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a7"
+  },
+  "game_id": 13,
+  "name": "Terraforming Mars",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a8"
+  },
+  "game_id": 14,
+  "name": "Everdell",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788a9"
+  },
+  "game_id": 15,
+  "name": "Gloomhaven",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788aa"
+  },
+  "game_id": 16,
+  "name": "Risk",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788ab"
+  },
+  "game_id": 17,
+  "name": "Clue",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788ac"
+  },
+  "game_id": 18,
+  "name": "Chess",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788ad"
+  },
+  "game_id": 19,
+  "name": "Monopoly",
+  "status": "unavailable",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788ae"
+  },
+  "game_id": 20,
+  "name": "Uno",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788af"
+  },
+  "game_id": 21,
+  "name": "The Resistance",
+  "status": "available",
+  "table_id": 0
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b0"
+  },
+  "game_id": 22,
+  "name": "Secret Hitler",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b1"
+  },
+  "game_id": 23,
+  "name": "Love Letter",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b2"
+  },
+  "game_id": 24,
+  "name": "Patchwork",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b3"
+  },
+  "game_id": 25,
+  "name": "Betrayal at House on the Hill",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b4"
+  },
+  "game_id": 26,
+  "name": "Cosmic Encounter",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b5"
+  },
+  "game_id": 27,
+  "name": "Root",
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b6"
+  },
+  "game_id": 28,
+  "name": "Small World",
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b7"
+  },
+  "game_id": 29,
+  "name": "Ark Nova",
+  "status": "broken"
+},
+{
+  "_id": {
+    "$oid": "67c526ddb4a91dcac67788b8"
+  },
+  "game_id": 30,
+  "name": "Blood Rage",
+  "status": "broken"
+}]

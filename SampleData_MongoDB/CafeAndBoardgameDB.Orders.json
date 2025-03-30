@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "67e51b99f6e7467aa0f38b4b"
+  },
+  "order_id": 1,
+  "staff_id": 1,
+  "member_id": 3,
+  "table_id": 1,
+  "total_price": 0,
+  "order_date": "2025-03-27 16:34:16"
+},
+{
+  "_id": {
+    "$oid": "67e51fbaf6e7467aa0f38b4f"
+  },
+  "order_id": 2,
+  "staff_id": 1,
+  "member_id": 4,
+  "table_id": 1,
+  "total_price": 0,
+  "order_date": "2025-03-27 16:51:54"
+},
+{
+  "_id": {
+    "$oid": "67e63d97f6e7467aa0f38b57"
+  },
+  "order_id": 3,
+  "staff_id": 1,
+  "member_id": 3,
+  "table_id": 1,
+  "total_price": 0,
+  "order_date": "2025-03-28 13:11:32"
+},
+{
+  "_id": {
+    "$oid": "67e63fbdf6e7467aa0f38b59"
+  },
+  "order_id": 4,
+  "staff_id": 1,
+  "member_id": 6,
+  "table_id": 3,
+  "total_price": 0,
+  "order_date": "2025-03-28 13:20:43"
+},
+{
+  "_id": {
+    "$oid": "67e6b055f6e7467aa0f38b5d"
+  },
+  "order_id": 5,
+  "staff_id": 1,
+  "member_id": 7,
+  "table_id": 6,
+  "total_price": 0,
+  "order_date": "2025-03-28 21:21:06"
+},
+{
+  "_id": {
+    "$oid": "67e6b43ff6e7467aa0f38b63"
+  },
+  "order_id": 6,
+  "staff_id": 1,
+  "member_id": 7,
+  "table_id": 6,
+  "total_price": 0,
+  "order_date": "2025-03-28 21:37:47"
+},
+{
+  "_id": {
+    "$oid": "67e6b686f6e7467aa0f38b67"
+  },
+  "order_id": 7,
+  "staff_id": 1,
+  "member_id": 8,
+  "table_id": 5,
+  "total_price": 0,
+  "order_date": "2025-03-28 21:47:31"
+}]
